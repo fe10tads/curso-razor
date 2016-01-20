@@ -14,6 +14,12 @@ namespace LojaRazor.Models
         [Required, EmailAddress]
         public String Email { get; set; }
 
+        [Required]
+        public Sexo Sexo { get; set; }
+
+        [Required]
+        public Estado Estado { get; set; }
+        
         [Required, MinLength(3)]
         public String Senha { get; set; }
 
