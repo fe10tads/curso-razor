@@ -53,3 +53,8 @@ C:\Users\Feeh\Desktop\LojaRazorCurso\LojaRazor\bin\System.Web.WebPages.Razor.xml
 C:\Users\Feeh\Desktop\LojaRazorCurso\LojaRazor\obj\Debug\LojaRazor.csprojResolveAssemblyReference.cache
 C:\Users\Feeh\Desktop\LojaRazorCurso\LojaRazor\obj\Debug\LojaRazor.dll
 C:\Users\Feeh\Desktop\LojaRazorCurso\LojaRazor\obj\Debug\LojaRazor.pdb
+C:\Users\Feeh\Desktop\LojaRazorCurso\LojaRazor\obj\Debug\LojaRazor.Resources.Mensagens.resources
+C:\Users\Feeh\Desktop\LojaRazorCurso\LojaRazor\obj\Debug\LojaRazor.csproj.GenerateResource.Cache
+C:\Users\Feeh\Desktop\LojaRazorCurso\LojaRazor\bin\en-us\LojaRazor.resources.dll
+C:\Users\Feeh\Desktop\LojaRazorCurso\LojaRazor\obj\Debug\LojaRazor.Resources.Mensagens.en-us.resources
+C:\Users\Feeh\Desktop\LojaRazorCurso\LojaRazor\obj\Debug\en-us\LojaRazor.resources.dll
